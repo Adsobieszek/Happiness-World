@@ -25,3 +25,7 @@ This interactive map, showcasing happiness scores for each country. Navigate thr
 
 
 ![3](https://github.com/Adsobieszek/Happiness-World/assets/134363499/c5d1df97-eb25-4166-917c-d29e97c07dda)
+
+# Correlation heatmap between happiness score and other factors
+
+![obraz](https://github.com/Adsobieszek/Happiness-World/assets/134363499/03310786-8657-43cd-90b6-0baae28c1ef5)
