@@ -9,7 +9,6 @@ Explore the dynamic landscape of global well-being with interactive chart. The i
 
 # Happiness table
 The table shows us the exact values of happiness score, social support, and generosity on each continent in yeach ear. By year slider, we can change the range of years.
-![2](https://github.com/Adsobieszek/Happiness-World/assets/134363499/4db69bb2-a080-47e2-9885-c5ac594da07e)![2](https://github.com/Adsobieszek/Happiness-World/assets/134363499/4db69bb2-a080-47e2-9885-c5ac594da07e)![2](https://github.com/Adsobieszek/Happiness-World/assets/134363499/4db69bb2-a080-47e2-9885-c5ac594da07e)![2](https://github.com/Adsobieszek/Happiness-World/assets/134363499/4db69bb2-a080-47e2-9885-c5ac594da07e)
 
 ![alt text](https://github.com/Adsobieszek/Happiness-World/blob/main/2.png?raw=true)
 
