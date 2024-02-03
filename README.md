@@ -2,7 +2,7 @@
 Explore the dynamic landscape of global well-being with interactive chart. The initial view presents happiness levels across continents for each year, allowing you to toggle between happiness, social support, and generosity scores using radio buttons. Additionally, fine-tune your analysis by adjusting the year range with a convenient slider.
 
 
-![gif1](https://github.com/Adsobieszek/Happiness-World/assets/134363499/2d02869e-2dc0-477f-8578-519d239a1efa)
+![2](https://github.com/Adsobieszek/Happiness-World/assets/134363499/4db69bb2-a080-47e2-9885-c5ac594da07e)
 
 
 # Happiness table
