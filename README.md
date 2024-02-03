@@ -1,9 +1,13 @@
+# Context
+
+In this project I focused on analysing factors which has influence on happiness and overall well-being from 2015 until 2023. I tried to compare factors like happiness scores, GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption between continents. The data comes from Kaggle, using their API. The significance of this research lies in its potential to offer nuanced insights into the evolving dynamics of global happiness. By exploring the interplay between social and economic indicators, individual freedoms, and societal perceptions, this project makes a meaningful contribution to the larger discussion about the quality of life.
+
+
 # Happiness chart
-Explore the dynamic landscape of global well-being with interactive chart. The initial view presents happiness levels across continents for each year, allowing you to toggle between happiness, social support, and generosity scores using radio buttons. Additionally, fine-tune your analysis by adjusting the year range with a convenient slider.
+Explore the dynamic landscape of global well-being with interactive chart. The initial view presents happiness levels across continents for each year, allowing to toggle between happiness, social support, and generosity scores using radio buttons. Additionally, fine-tune your analysis by adjusting the year range with a convenient slider.
 
 
 ![1](https://github.com/Adsobieszek/Happiness-World/assets/134363499/5b8706a2-63f4-4cd1-82c2-d226b7ec80e5)
-
 
 
 
